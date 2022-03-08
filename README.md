@@ -114,9 +114,9 @@ Following variables are significant
 
 	The model is
 
-	  count = 177574.75 \times constant + 8465.27  \times LotArea + 10055.42  \times  BsmtFinSF1 + 
-    11282.11 \times TotalBsmtSF + 16236.42 \times 1stFlrSF + 22601.86 \times 2ndFlrSF 
-    - 13339.15 \times AgeHouse + 9718.89 \times OverallQual_Good + 18241.77
-    \times OverallQual_VeryGood + 18289.10 \times OverallQual_Excellent +
-    12655.55 \times OverallQual_10 + 2886.99 \times Exterior1st_CemntB
-    - 1923.05 \times Exterior2nd_CmentBd	$
+    count = 177574.75 * constant + 8465.27  * LotArea + 10055.42 *  BsmtFinSF1 + 
+    11282.11 *es TotalBsmtSF + 16236.42 * 1stFlrSF + 22601.86 * 2ndFlrSF 
+    - 13339.15 * AgeHouse + 9718.89 * OverallQual_Good + 18241.77
+    * OverallQual_VeryGood + 18289.10 * OverallQual_Excellent +
+    12655.55 * OverallQual_10 + 2886.99 * Exterior1st_CemntB
+    - 1923.05 * Exterior2nd_CmentBd	
